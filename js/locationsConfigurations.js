@@ -132,6 +132,13 @@ const locationsConfigurations = {
     lat: -12.0432,
     lon: -77.0282,
   },
+  liverpool: {
+    name: 'Liverpool, UK',
+    timezone: 'Europe/London',
+    locale: 'en-GB',
+    lat: 53.4083,
+    lon: -2.9916,
+  },
   london: {
     name: 'London, UK',
     timezone: 'Europe/London',
